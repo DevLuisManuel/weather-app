@@ -1,4 +1,4 @@
-name: ProfileCard
+name: Weather-App
 on:
   push:
     branches: [ main ]
